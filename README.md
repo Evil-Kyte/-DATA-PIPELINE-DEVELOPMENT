@@ -19,3 +19,5 @@ Extract raw data from a CSV file. Transform the data by cleaning, encoding, and 
 This script is modular and can be easily extended to connect with databases, APIs, or cloud data sources.
 # These libraries perform essential tasks: 
 **pandas** for data manipulation, **numpy** for numerical computations, **scikit-learn** tools for feature scaling and encoding, **os **for checking file paths.
+# output 
+<img width="633" height="506" alt="Image" src="https://github.com/user-attachments/assets/79e5b29f-7edf-4168-8bad-1d12a1602f3e" />
