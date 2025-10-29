@@ -19,3 +19,4 @@ Extract raw data from a CSV file. Transform the data by cleaning, encoding, and 
 
 These libraries perform essential tasks:
 pandas for data manipulation, numpy for numerical computations, scikit-learn tools for feature scaling and encoding, **os **for checking file paths.
+<img width="533" height="430" alt="Image" src="https://github.com/user-attachments/assets/7ef9511e-1b06-4ebd-9f6e-7b4776966226" />
